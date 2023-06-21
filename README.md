@@ -1,5 +1,7 @@
 # AirBnB in NYC: Accommodation Segmentation
 
+![Alt text](AirBnB-in-NYC-Accommodation-Segmentation/Screenshot 2023-06-21 at 12.34.09.png)
+
 ### Table of Contents
 - [Project Description](#project-description)
 - [Dataset](#dataset)
