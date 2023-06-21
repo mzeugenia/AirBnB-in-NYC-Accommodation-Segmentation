@@ -1,6 +1,6 @@
-# AirBnB in NYC: Accommodation Segmentation
+![Alt text](https://github.com/mzeugenia/AirBnB-in-NYC-Accommodation-Segmentation/blob/main/intro_figure.png)
 
-![Alt text](AirBnB-in-NYC-Accommodation-Segmentation/Screenshot 2023-06-21 at 12.34.09.png)
+# AirBnB in NYC: Accommodation Segmentation
 
 ### Table of Contents
 - [Project Description](#project-description)
